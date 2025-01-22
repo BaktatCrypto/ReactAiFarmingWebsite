@@ -238,7 +238,11 @@ function Home() {
                   </div>
                 </div>
               </div>
-              <Swap />
+              <div class="col-lg-6">
+                <div class=" wow illusto-2 fadeInRight" data-wow-delay="0.3s">
+                  <img src="img/core-img/about-3.png" alt="" />
+                </div>
+              </div>
             </div>
           </div>
         </div>
