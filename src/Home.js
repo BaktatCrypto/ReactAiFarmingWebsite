@@ -1089,7 +1089,7 @@ function Home() {
                   If you have any issues acquiring{" "}
                   <span className="baktat">BAKTAT</span> Tokens, do not hesitate
                   to contact us.{" "}
-                  <a href="mailto:support@baktat.io">support@baktat.io</a>
+                  <a href="mailto:support@baktat.ai">support@baktat.ai</a>
                 </p>
               </div>
             </div>
@@ -1206,7 +1206,7 @@ function Home() {
                   </dt>
                   <dd className="fadeInUp" data-wow-delay="0.3s">
                     <p>
-                      Claiming will be live on the Baktat.io website using the
+                      Claiming will be live on the Baktat.ai website using the
                       same wallet you used to contribute.{" "}
                       <span className="baktat">BAKTAT</span> Token is an ERC-20
                       token on the Ethereum network.
@@ -1222,7 +1222,7 @@ function Home() {
                   </dt>
                   <dd className="fadeInUp" data-wow-delay="0.3s">
                     <p>
-                      Get in touch with us at support@baktat.io or join our
+                      Get in touch with us at support@baktat.ai or join our
                       Discord community. You can also use the contact form
                       below.
                     </p>
@@ -1254,7 +1254,7 @@ function Home() {
                   Our Team
                 </h2>
                 <p class="fadeInUp" data-wow-delay="0.4s">
-                  The <span className="baktat">BAKTAT</span>.io Team is a
+                  The <span className="baktat">BAKTAT</span>.ai Team is a
                   professional Crypto Team and consists of members from a wide
                   range of industries and specialist areas. Altogether, the team
                   consists of almost 20 members spread across more than five
@@ -1264,7 +1264,7 @@ function Home() {
                   The healthy relationship and the close interlocking of the
                   employees among each other, as well as the different
                   experience values, enables an efficient and future-oriented
-                  design of <span className="baktat">BAKTAT</span>.io
+                  design of <span className="baktat">BAKTAT</span>.ai
                 </p>
               </div>
             </div>
@@ -1367,8 +1367,8 @@ function Home() {
                   >
                     <h5>About Us</h5>
                     <p>Farmland (168 Robinson Road, Singapore 068912)</p>
-                    <a href="mailto:support@baktat.io">
-                      <p>support@baktat.io</p>
+                    <a href="mailto:support@baktat.ai">
+                      <p>support@baktat.ai</p>
                     </a>
                   </div>
                 </div>
