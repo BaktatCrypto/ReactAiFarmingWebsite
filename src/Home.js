@@ -196,7 +196,7 @@ function Home() {
               <div className="col-12 col-lg-6 col-md-12">
                 <div className="welcome-content">
                   <h1 className="wow fadeInUp" data-wow-delay="0.1s">
-                    The <span className="baktat">BAKTAT</span> Farming
+                    The <span className="baktat">BAKTAT</span> Farming Ai
                     Crowdfunding Platform utilizes the benefits of farming
                     combind with cryptocurrencies{" "}
                   </h1>
@@ -209,7 +209,7 @@ function Home() {
                     perfect strategy for you to participate in the agricultural
                     business without the need to buy farms, equipment and
                     cattle. <span className="baktat">BAKTAT</span> FARMING will
-                    allow your to be a part of individual agricultural projects!
+                    allow your to be a part of individual and Ai powered agricultural projects!
                   </p>
                   <div
                     className="wow dream-btn-group fadeInUp"
@@ -1325,11 +1325,10 @@ function Home() {
                     <a href="https://www.facebook.com/Baktatio-101428919141727">
                       <i className="fa fa-facebook" aria-hidden="true" />
                     </a>
-                    <a href="https://twitter.com/baktat_official">
-                      {" "}
-                      <i className="fa fa-twitter" aria-hidden="true" />
+                    <a href="https://www.x.com/baktatai">
+                      <i className="fa fa-x" aria-hidden="true" />
                     </a>
-                    <a href="https://www.instagram.com/baktat.io/">
+                    <a href="https://www.instagram.com/baktat.ai">
                       <i className="fa fa-instagram" aria-hidden="true" />
                     </a>
                     <a href="https://www.reddit.com/user/Baktat_Official">
