@@ -1326,7 +1326,7 @@ function Home() {
                       <i className="fa fa-facebook" aria-hidden="true" />
                     </a>
                     <a href="https://www.x.com/baktatai">
-                      <i className="fa fa-x" aria-hidden="true" />
+                      <i className="fa fa-twitter" aria-hidden="true" />
                     </a>
                     <a href="https://www.instagram.com/baktat.ai">
                       <i className="fa fa-instagram" aria-hidden="true" />
