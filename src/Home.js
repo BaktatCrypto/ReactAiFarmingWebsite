@@ -667,7 +667,7 @@ function Home() {
                 </h6>
                 <p>
                   Acquire any amount of <span className="baktat">BAKTAT</span>{" "}
-                  Tokens via our Website, ICO, partners and exchanges after
+                  Tokens via our presale widget (coming soon), ICO, partners and exchanges after
                   listing
                 </p>
               </div>
@@ -1031,7 +1031,7 @@ function Home() {
                 <h6>Prepare your wallet</h6>
                 <p>
                   Ensure that you have enough ETH on your wallet. Use the{" "}
-                  <a href="#swapWidget">presale widget above</a> to swap for{" "}
+                  presale widget (coming soon) to swap for{" "}
                   <span className="baktat">BAKTAT</span> Tokens.
                 </p>
               </div>
@@ -1168,9 +1168,7 @@ function Home() {
                       <span className="baktat">BAKTAT</span> Token is an ERC-20
                       token on the Ethereum blockchain. The token contract
                       address is (TBD). Please do not send any funds to this
-                      token contract address, as they cannot be recovered.{" "}
-                      <span className="baktat">BAKTAT</span> Token can currently
-                      only be purchased through the official presale.
+                      token contract address, as they cannot be recovered.
                     </p>
                   </dd>
                   {/* Single FAQ Area */}
