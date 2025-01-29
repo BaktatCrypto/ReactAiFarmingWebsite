@@ -850,7 +850,7 @@ function Home() {
                     <div className="date-outer">
                       <span className="date">
                         <span className="month">Q1 &amp; Q2</span>
-                        <span className="year">2023</span>
+                        <span className="year">2025</span>
                       </span>
                     </div>
                   </div>
@@ -870,7 +870,7 @@ function Home() {
                     <div className="date-outer">
                       <span className="date">
                         <span className="month">End Q4</span>
-                        <span className="year">2023</span>
+                        <span className="year">2025</span>
                       </span>
                     </div>
                   </div>
@@ -890,7 +890,7 @@ function Home() {
                     <div className="date-outer">
                       <span className="date">
                         <span className="month">Q1 - Q4</span>
-                        <span className="year">2024</span>
+                        <span className="year">2026</span>
                       </span>
                     </div>
                   </div>
@@ -912,7 +912,7 @@ function Home() {
                     <div className="date-outer">
                       <span className="date">
                         <span className="month">Q1 - Q4</span>
-                        <span className="year">2025</span>
+                        <span className="year">2027</span>
                       </span>
                     </div>
                   </div>
@@ -1382,7 +1382,7 @@ function Home() {
                     data-wow-delay="0.4s"
                   >
                     <h5>
-                      Copyright © 2024 <span className="baktat">BAKTAT</span>
+                      Copyright © 2025 <span className="baktat">BAKTAT</span>
                       COIN
                     </h5>
                     <p>
