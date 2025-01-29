@@ -1383,7 +1383,7 @@ function Home() {
                   >
                     <h5>
                       Copyright © 2025 <span className="baktat">BAKTAT</span>
-                      COIN
+                      TOKEN
                     </h5>
                     <p>
                       Cryptocurrency may be unregulated in your jurisdiction.
