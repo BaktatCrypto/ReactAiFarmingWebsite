@@ -529,9 +529,7 @@ function Home() {
                   <div className="post-meta mt-20">
                     <p>Fruits / Costa Rica</p>
                   </div>
-                  <a href="#" className="post-title">
                     <h4>Banana Plantation</h4>
-                  </a>
                   <p>
                     In 2015, Costa Rica grew and supplied one out of every 10
                     bananas consumed globally and ranks as the world's third
@@ -561,9 +559,7 @@ function Home() {
                   <div className="post-meta mt-20">
                     <p>Livestock / Turkey</p>
                   </div>
-                  <a href="#" className="post-title">
                     <h4>Sheep Farm</h4>
-                  </a>
                   <p>
                     Livestock are the domesticated animals raised in an
                     agricultural setting to provide labor and produce
@@ -594,9 +590,7 @@ function Home() {
                   <div className="post-meta mt-20">
                     <p>Vegetables / Kenia</p>
                   </div>
-                  <a href="#" className="post-title">
                     <h4>Potato Fields</h4>
-                  </a>
                   <p>
                     The National Potato Council of Kenya reports that potatoes
                     are the second most important food and cash crop after corn
