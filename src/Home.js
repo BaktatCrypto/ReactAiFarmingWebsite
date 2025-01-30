@@ -471,8 +471,158 @@ function Home() {
           </div>
         </div>
       </section>
+	  
+	    <section
+        className="our_blog_area clearfix section-padding-50-0"
+        id="blog"
+      >
+        <div className="container">
+          <div className="row">
+            <div className="col-12">
+              <div
+                className="section-heading text-center"
+                style={{ marginBottom: 40 }}
+              >
+                <div
+                  className="dream-dots justify-content-center aos-init aos-animate wow fadeInDown"
+                  data-aos="fade-up"
+                >
+                  <span className="">
+                   Ai powered agricultural projects
+                  </span>
+                </div>
+                <h2
+                  data-aos="fade-up"
+                  className="aos-init aos-animate wow fadeInLeft"
+                >
+                  Artificial intelligence is reshaping agriculture by enhancing efficiency, reducing manual labor, and driving innovation.
+                </h2>
+                <p
+                  data-aos="fade-up"
+                  className="aos-init aos-animate wow fadeInRight"
+                >
+                  From data-driven insights to automated solutions, AI is paving the way for a smarter and more sustainable future in farming.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="row justify-content-center">
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>AI is Revolutionizing Farming</h4>
+                  <p>
+                  Artificial intelligence is transforming agriculture by improving efficiency, optimizing crop yields, and automating tasks. AI-driven tools help farmers make data-driven decisions, predict weather patterns, and reduce resource waste, leading to more sustainable farming practices.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInDown"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>AI for Precision Farming</h4>
+                  <p>
+                  AI enables precision farming, using sensors and data analytics to monitor soil health, crop growth, and water usage. This technology allows farmers to apply resources like water and fertilizer more effectively, boosting productivity and minimizing environmental impact.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>AI-Powered Crop Monitoring</h4>
+                  <p>
+                  Through machine learning, AI can analyze satellite images and drone data to detect crop diseases and pests early. By identifying problems in real time, farmers can take action before damage spreads, reducing crop loss and improving overall harvests.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row justify-content-center">
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>AI in Livestock Management</h4>
+                  <p>
+                  AI helps in livestock monitoring by analyzing animal behavior and health. Sensors and wearable devices track vitals, ensuring early detection of illnesses, optimizing feed management, and improving overall animal welfare, thus increasing productivity and profitability.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInDown"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>Robotics in Farming</h4>
+                  <p>
+                  Robots powered by AI are automating labor-intensive tasks like planting, weeding, and harvesting. These technologies reduce the need for manual labor, lower costs, and increase farming efficiency, all while supporting sustainable farming practices.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-12 col-md-6 col-lg-4 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
+              <div
+                className="single-blog-area aos-init aos-animate"
+                style={{ marginBottom: 30 }}
+                data-aos="fade-up"
+              >
+                <div className="blog-content">
+                    <h4>AI and Climate Adaptation</h4>
+                  <p>
+                  AI models help farmers adapt to climate change by predicting weather patterns and optimizing crop selection. By analyzing environmental data, AI provides insights on the best practices for planting and harvesting, reducing risks caused by unpredictable weather conditions.
+                  </p>
+                  {/*<a href="#" class="btn more-btn mt-15">Read Details</a>*/}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+	  
       <section
-        className="our_blog_area clearfix section-padding-100-0"
+        className="our_blog_area clearfix section-padding-50-0"
         id="blog"
       >
         <div className="container">
